@@ -7,7 +7,7 @@ math libraries?
 
 Well i've got a solution for you! 
 
-In troducing Chadculator!
+Introducing Chadculator!
 
 100% C++.
 
