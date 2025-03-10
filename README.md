@@ -30,21 +30,17 @@ fast compile times using gcc/g++.
 
 
 ## Installation
-
-clone the github repo then cd into the install folder directory
-
-gcc:
+Linux distros with gcc:
 ```bash
-    gcc chadculator.cpp -lstdc++
+git clone https://github.com/GregoryToniolo/Chadculator &&  cd Chadculator && gcc chadculator.cpp -lstdc++
 ```
-g++:
+Linux ditros with g++:
 ```bash
-    g++ chadculator.cpp
+git clone https://github.com/GregoryToniolo/Chadculator &&  cd Chadculator && g++ chadculator.cpp 
 ```
-To run use:
-
+To run:
 ```bash
-    ./a.out
+cd ~/Chadculator && ./a.out
 ```
 ## Contributing
 
@@ -52,7 +48,7 @@ You may contribute any operations you wish to
 
 Rules for contributing:
 
-Use only <iostream> library for C++.
+Use only iostream library for C++.
 
 Comment your code and explain what algorithm/s you are implementing.
 
