@@ -30,6 +30,9 @@ fast compile times using gcc/g++.
 
 
 ## Installation
+Windows:
+I'm lazy so just use wsl2 to install linux: https://learn.microsoft.com/it-it/windows/wsl/install
+
 Linux distros with gcc:
 ```bash
 git clone https://github.com/GregoryToniolo/Chadculator &&  cd Chadculator && gcc chadculator.cpp -lstdc++
