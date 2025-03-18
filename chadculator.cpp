@@ -326,6 +326,9 @@ int main()
   int secondNumber = 0;
   double thirdNumber = 0;
 
+  //clear the console
+  cout << "\x1B[2J\x1B[H";
+
   char operation = ' ';
   cout << "Enter an operation you would like to perform (*,/,-,+,^,%, P isPrime, s square root, g greatest common denominator, l least common multiple)\n";
   cin >> operation;
