@@ -1,5 +1,5 @@
 
-# Chadculator 0.10
+# Chadculator 0.11
 
 Are you a chad? 
 Do you want a simple portable calculator for basic arithmetic but hate those pesky 
